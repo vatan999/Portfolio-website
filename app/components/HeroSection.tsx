@@ -34,7 +34,7 @@ const HeroSection = () => {
           <div className="flex items-center justify-between">
             <a
               target="_blank"
-              href="https://drive.google.com/file/d/1dwy1ra025cHGoH7EZuMLie0lrlEBP5yM/view?usp=sharing"
+              href="https://drive.google.com/file/d/1mTdP7PY4lHena_SP6j1rekJhOfNUQgBJ/view?usp=sharing"
               className="text-neutral-100  font-semibold px-6 py-3 cursor-pointer bg-blue-600 rounded shadow hover:bg-blue-700"
             >
               Resume
